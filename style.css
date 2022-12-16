@@ -221,6 +221,30 @@ p {
     .navbar {
         display: none;
     }
-   
-    
+    .separacion{
+        margin: 20px;
+    }
+    .clase1{
+        height: 45vh;
+    }
+    .sau {
+        padding: 15px;
+        background: #1f1d1d;
+        width: 100%;
+    }
+    .clase2{
+        height: 65vh;
+    }
+    .origentext{
+        margin-top: 5px;
+    }
+    .origensaber{
+        margin: 10px;
+    }
+    .clase3{
+        height: 70vh;
+    }
+    #carrusel{
+        margin-bottom: 40px;
+    }
 }
